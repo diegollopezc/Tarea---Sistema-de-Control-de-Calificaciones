@@ -1,9 +1,9 @@
-# Tarea - Uso de Bucles
+## Tarea - Uso de Bucles
 # Sistema de Control de Calificaciones
 
-# Diego Lopez
-# 2026-1579
-# Logica de Programacion - UCE
+Diego Lopez
+2026-1579
+Logica de Programacion - UCE
 
 # Objetivo
 Utiliza estructuras de control repetitivas para resolver problemas, mediante la codificación
